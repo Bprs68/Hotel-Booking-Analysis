@@ -1,4 +1,5 @@
-# Hotel Booking Analysis
+<h1 align='center'><b>Hotel Booking Analysis</b></h1>
+
 <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80" alt="image" style="width:1000px;height:400px;">
 
 #### <a href = "https://public.tableau.com/app/profile/bhaskar.kumar5658/viz/HotelBookingDashboard_16774308027600/Dashboard1?publish=yes"> <strong>Check out this Tableau Dashboard</strong> </a><br>
