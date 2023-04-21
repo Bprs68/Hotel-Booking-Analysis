@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80" alt="image" style="width:1000px;height:400px;">
 
-#### <a href = "https://public.tableau.com/app/profile/bhaskar.kumar5658/viz/HotelBookingDashboard_16774308027600/Story1"> <strong>Check out this Tableau Dashboard and associated story</strong> </a><br>
+#### <a href = "https://public.tableau.com/app/profile/bhaskar.kumar5658/viz/HotelBookingDashboard_16774308027600/Story1"> <strong>Check out this Tableau Dashboard and associated Story</strong> </a><br>
 
 ## 1. Project Description
 The goal of this project is to analyze a hotel booking dataset and explore important factors that affect the bookings. The dataset includes information on bookings made at a city hotel and a resort hotel, including details such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces. By analyzing this data, we aim to answer questions such as when the best time of year to book a hotel room is, the optimal length of stay for the best daily rate, and whether or not a hotel is likely to receive a disproportionately high number of special requests. This dataset can help us understand the important factors that govern hotel bookings and can inform future strategies for hotel booking management. The dataset has had all personally identifying information removed to ensure privacy.
